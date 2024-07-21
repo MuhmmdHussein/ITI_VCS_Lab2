@@ -1,1 +1,34 @@
+How To add branch ? 
+
+Locally : 
+
+git branch -d dev
+
+
+git push origin --delete dev
+
+==================================
+
+
+
+How to delete tag ?
+
+
+Locally : 
+
+git tag -d tag
+
+Remotly : 
+
+git push origin --delete tag
+
+
+======================================
+
+How to list tags?
+
+git tag
+
+
+
 
